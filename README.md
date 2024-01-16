@@ -38,7 +38,7 @@ This is an excerpt of some our visualizations for this study:
 
 **Conclusion:**
 
-Read the full executive summary of the project [here]([url](https://docs.google.com/document/d/1GjeSxCmCnB5Bv4DZV1L6JqBfWuT9SUgrA5_rUiTnsBs/edit)).
+Read the full executive summary of the project [here](https://docs.google.com/document/d/1GjeSxCmCnB5Bv4DZV1L6JqBfWuT9SUgrA5_rUiTnsBs/edit).
 
 According to our study, the actual difference between the two groups is that weeks with a concert have 1.3 more reviews on average than weeks without a concert. However, this result is not statistically significant, as we could observe from a p-value of 0.96. 
 
