@@ -12,6 +12,7 @@ We performed a t-test, linear regression, and multilinear regression analyses to
 - Yelp reviews from restaurants across downtown LA (provided by professor Mohammed Alyakoob from USC)
 - Concert dates in LA from 204-2017 (independent sourced from open sources)
 
-<img src="https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/e21166a3-0d62-435c-a57e-1f7954868aec" width="550", height="550" />
+![image](https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/865193d2-1acf-4021-ae66-3c3d99a29a8e)
+
 
 
