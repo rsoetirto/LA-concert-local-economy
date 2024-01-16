@@ -33,6 +33,7 @@ Our hypotheses are:
 **Ha:** There is a difference between the number of Yelp reviews in the two groups.
 
 This is an excerpt of some our visualizations for this study:
+
 ![Screenshot 2024-01-16 at 11 45 46 AM](https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/96821cc9-36d2-4c12-875f-24534e5c263a)
 
 ---
