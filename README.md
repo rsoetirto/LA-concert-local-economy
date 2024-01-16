@@ -27,7 +27,9 @@ We performed a **t-test**, **linear regression**, and **multilinear regression**
 As specified above, our team conducted a number of statistical tests to support our objective. We tested for the difference in the average number of Yelp reviews for weeks when there is a concert recorded versus when there isn’t, among all the 208 weeks spanning four years that we collected data points on.
 
 Our hypotheses are:
+
 **Ho:** There is no difference between the number of Yelp reviews in the two groups.
+
 **Ha:** There is a difference between the number of Yelp reviews in the two groups.
 
 This is an excerpt of some our visualizations for this study:
