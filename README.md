@@ -16,7 +16,7 @@ We performed a **t-test**, **linear regression**, and **multilinear regression**
 <img src="https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/322c455b-f4ee-4fa6-bbd0-833303cb2f9e" width="450" height="450" />
 
 <br> 
-
+</br>
 **Preview of dataset:**
 ![Screenshot 2024-01-16 at 11 35 45 AM](https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/f777a6e9-9177-4c4d-8240-4a712d06b4ff)
 
