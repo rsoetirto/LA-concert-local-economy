@@ -12,7 +12,9 @@ We performed a **t-test**, **linear regression**, and **multilinear regression**
 - Yelp reviews from restaurants across downtown LA (provided by professor Mohammed Alyakoob from USC)
 - Concert dates in LA from 204-2017 (independent sourced from open sources)
 
-<img src="https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/67f8b98d-f699-46e2-adcc-fc01e4cb6d90" width="450", height="450" />
+<img src="https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/67f8b98d-f699-46e2-adcc-fc01e4cb6d90" width="450" height="450" />
+<img src="https://github.com/rsoetirto/LA-concert-local-economy/assets/109045573/67f8b98d-f699-46e2-adcc-fc01e4cb6d90" width="450" height="450" />
+
 
 
 
